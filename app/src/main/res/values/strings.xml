@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AC Standing</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="mungkin_tidak">Mungkin Tidak</string>
+    <string name="mungkin">Mungkin</string>
+    <string name="kemungkinan_besar">Kemungkinan Besar</string>
+    <string name="hampir_pasti">Hampir Pasti</string>
+    <string name="pasti">Pasti</string>
+    <string name="tentang">Aplikasi Diagnosa Kerusakan AC Standing Floor adalah program komputer berbasis kecerdasan buatan yang dirancang untuk menentukan masalah atau kerusakan pada AC Standing Floor serta memberi solusi atas masalah yang terjadi berdasarkan pengetahuan ahli yang telah diprogram di dalamnya.</string>
+</resources>
